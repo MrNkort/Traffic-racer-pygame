@@ -8,11 +8,11 @@ The player controls a car, maneuvering around other cars on the track. The goal 
 
 ## ⚙️ Install:
 
-1. Install repository:
+1.Install repository:
    ```bash
    git clone https://github.com/MrNkort/Traffic-racer-pygame.git
 
-2.Install Pygame:
+2.Install Pygame:\
 pip install pygame
 
 3.Go to the game folder and launch it.:\
