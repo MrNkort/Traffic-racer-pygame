@@ -8,10 +8,7 @@ The player controls a car, maneuvering around other cars on the track. The goal 
 
 ## 🎥 Видео с игрой
 
-<video width="600" controls>
-  <source src="gameplay.mp4" type="video/mp4">
-  Ваш браузер не поддерживает просмотр видео.
-</video>
+[Смотреть видео с игрой](gameplay.mp4)
 
 ## ⚙️ Install:
 
