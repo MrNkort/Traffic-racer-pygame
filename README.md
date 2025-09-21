@@ -15,7 +15,7 @@ The player controls a car, maneuvering around other cars on the track. The goal 
 2.Install Pygame:
 pip install pygame
 
-3.Go to the game folder and launch it.:
+3.Go to the game folder and launch it.:\
 cd game \
 python main.py
 
