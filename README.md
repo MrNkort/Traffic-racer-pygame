@@ -6,7 +6,7 @@ A small arcade racing game in Python using Pygame.
 
 The player controls a car, maneuvering around other cars on the track. The goal is to score as many points as possible.
 
-## 🎥 Видео с игрой
+## 🎥 gameplay video
 
 [Смотреть видео с игрой](gameplay.mp4)
 
